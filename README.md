@@ -1,5 +1,5 @@
 # Movie_Ticket_Booking
-![1](https://user-images.githubusercontent.com/99090971/236696662-89359948-5b78-49cb-a2ec-6dffa8d2446c.jpg)
-![2](https://user-images.githubusercontent.com/99090971/236696672-fb36d79b-edd5-430c-91a1-c5fe8b12dced.jpg)
-![3](https://user-images.githubusercontent.com/99090971/236696680-ddff4643-20db-4813-8900-54213c2f0d48.jpg)
-![4](https://user-images.githubusercontent.com/99090971/236696695-31c323cb-07a7-47e6-bc74-02054bd263c7.jpg)
+![img_1](https://user-images.githubusercontent.com/99090971/236697432-7a910cbe-0251-4570-aa80-d36e96b787a5.jpg)
+![img_2](https://user-images.githubusercontent.com/99090971/236697439-96e7d52a-063f-4c02-875b-fa4f37880163.jpg)
+![img_3](https://user-images.githubusercontent.com/99090971/236697445-6330be43-1052-44a9-926a-9ceb143eee4a.jpg)
+![img_4](https://user-images.githubusercontent.com/99090971/236697452-5f11b6aa-f416-4f23-beae-df81b546847f.jpg)
